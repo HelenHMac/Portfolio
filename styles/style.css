@@ -1,0 +1,12 @@
+/* font-family: 'Merriweather', serif; */
+
+h1 {
+    background-color: rgb(164, 243, 216) ;
+    font-family: "Merriweather", serif;
+    font-weight: bold;
+}
+
+p {
+    background-color: rgb(164, 243, 216) ;
+    font-family: "Merriweather", serif;
+}
