@@ -8,20 +8,20 @@
 h1 {
     font-weight: bold;
     text-align: center;
-    font-size: 600%;
+    font-size: 8vw;
     color:  var(--secondary-color);
 }
 
 h2 {
     text-align: center;
     padding-bottom: 2%;
-    font-size: 300%;
+    font-size: 3.5vw;
 }
 
 h3 {
     text-align: center;
     padding-top: 3%;
-    font-size: 200%;
+    font-size: 2.5vw;
     color: var(--third-color);
 }
 
@@ -44,7 +44,7 @@ body {
 .about-hero-h {
     color: var( --secondary-color);
     display: flex;
-    font-size: 40px;
+    font-size: 2.6vw;
 }
 
 .text-description {
@@ -64,7 +64,7 @@ body {
 .projects-h {
     color: var( --secondary-color);
     margin-left: 15%;
-    font-size: 40px;
+    font-size: 2.6vw;
     margin-bottom: 5%;
 }
 
@@ -110,7 +110,7 @@ a {
 .contact-me-h {
     color: var( --secondary-color);
     display: flex;
-    font-size: 40px;
+    font-size: 2.6vw;
     margin-left: 15%;
 }
 
